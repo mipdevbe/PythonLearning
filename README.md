@@ -1,14 +1,14 @@
-🐍 Python Workbench – Projects & Applied Learning
+<h1>🐍 Python Workbench – Projects & Applied Learning</h1>
 
-🚧 Actively building real-world Python applications
+<h2>🚧 Actively building real-world Python applications</h2>
 
 This repository serves as my Python learning workbench, where I develop practical skills by designing and implementing real-world projects. The focus is on applying concepts through consistent, hands-on development rather than isolated exercises.
 
-🎯 Objective
+<h2>🎯 Objective</h2>
 
 To build strong, job-ready Python skills through structured project development, covering a wide range of real-world use cases including automation, data processing, and application design.
 
-🛠️ Learning Approach
+<h2>🛠️ Learning Approach</h2>
 
 This workbench follows a project-based progression, where each application introduces new concepts and reinforces previous ones.
 
@@ -19,21 +19,21 @@ Move to more complex implementations
 
 This approach ensures both depth (understanding) and breadth (variety of applications).
 
-🚀 Project Portfolio
+<h2>🚀 Project Portfolio</h2>
 
 ⚠️ This section is continuously updated as new projects are completed.
 
-🔹 Project 1 – TaskCLI – Command-Line Task Manager
+<h3>🔹 Project 1 – TaskCLI – Command-Line Task Manager</h3>
 
-Problem: Managing daily tasks efficiently without relying on heavy applications
-Solution: Built a lightweight command-line tool to create, update, and track tasks
-Tech: Python, Python, file handling
-Key Takeaway: Improved understanding of data persistence and user interaction in CLI
+<ins>Problem:</ins> Managing daily tasks efficiently without relying on heavy applications<br>
+<ins>Solution:</ins> Built a lightweight command-line tool to create, update, and track tasks<br>
+<ins>Tech:</ins> Python, Python, file handling<br>
+<ins>Key Takeaway:</ins> Improved understanding of data persistence and user interaction in CLI<br>
 
-💼 For Recruiters
+<h2>💼 For Recruiters</h2>
 
 This repository reflects a structured, disciplined approach to learning Python through consistent project delivery and practical implementation. Each project demonstrates progression in both technical skills and problem-solving ability.
 
-📬 Contact
-GitHub: https://github.com/mipdevbe/PythonLearning
-LinkedIn: https://www.linkedin.com/in/philippe-michel-20775321
+<h2>📬 Contact</h2>
+GitHub: https://github.com/mipdevbe/PythonLearning<br>
+LinkedIn: https://www.linkedin.com/in/philippe-michel-20775321<br>
