@@ -12,10 +12,10 @@ To build strong, job-ready Python skills through structured project development,
 
 This workbench follows a project-based progression, where each application introduces new concepts and reinforces previous ones.
 
-Learn core concepts
-Apply them in a project
-Refactor and improve code quality
-Move to more complex implementations
+Learn core concepts<br>
+Apply them in a project<br>
+Refactor and improve code quality<br>
+Move to more complex implementations<br>
 
 This approach ensures both depth (understanding) and breadth (variety of applications).
 
